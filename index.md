@@ -1,4 +1,4 @@
-## 欢迎来到我的米店
+## Uziの米店
 
 You can use the [editor on GitHub](https://github.com/ZsChenYu/midian.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
