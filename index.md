@@ -35,7 +35,7 @@
 
 交易支持走担保交易（闲鱼），流程图如下
 
-![流程图](https://i.loli.net/2019/11/24/t5cp6s9voSaZHFR.png"流程图")
+![流程图](https://i.loli.net/2019/11/24/t5cp6s9voSaZHFR.png ''流程图'')
 
 
 
