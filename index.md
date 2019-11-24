@@ -35,16 +35,14 @@
 
 交易支持担保交易（闲鱼），流程图如下
 
-```flow
-st=>start: 开始
-op=>operation: My Operation
+flow
+st=>start: Start
+op=>operation: Your Operation
 cond=>condition: Yes or No?
 e=>end
 st->op->cond
 cond(yes)->e
 cond(no)->op
-&```
-
 
 ### 域名在哪
 
