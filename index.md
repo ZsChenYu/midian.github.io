@@ -4,9 +4,9 @@
 
 因个人精力有限，无法**实时**的**更新**米表，但会依然保持每24小时更新一轮。
 
-```markdown
+
 域名的价值或许并不会直观的体现再您眼前，它今日的暗淡或许只是在等候一见相中的那个人。
-```
+
 **快速导航：**
 
 ### 米表
@@ -22,19 +22,19 @@
  | | | | | | |
 
 ### 购买域名
-
-您可通过下方联系方式来联系我，联系我时注意说明来意：购买域名
+```markdown
+您可通过下方联系方式来联系我购买想要的域名，联系我时注意说明来意：购买域名
+```
+联系方式：
 
 1. QQ：50437844
 2. VX：YingFeng_1
 3. E-mail：zschenyu8@gmail.com
 
-### 如何交易
+
 
 ### 域名在哪
 
 ### 本站声明
 
-<div align=life> 
-<iframe frameborder="no" marginwidth="0" marginheight="0" width=400 height=140 src="https://music.163.com/outchain/player?type=2&id=34341360&auto=0&height=66"></iframe>
-</div>
+
