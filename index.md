@@ -1,9 +1,8 @@
-# This is an <h1> tag
 ## Uziの米店
 
-Uziの米店是一家由个人维护的域名二手交易平台；域名量不多，但每个都是性价巅峰。
+Uziの米店是一家由个人维护的域名二手交易平台；专注分享权重域名、老域名、备案域名，
 
-域名的价值或许不再眼前，会满满浮现再未来或者有需要的人面前
+
 
 
 
@@ -13,20 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
